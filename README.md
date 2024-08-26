@@ -6,11 +6,11 @@ AutoRAG is your one-stop shop for information and assistance. It leverages the p
 
 **Key Features:**
 
-- ** Knowledge Powerhouse:** AutoRAG maintains a comprehensive knowledge base, keeping you informed on various topics.
-- ** Double-Duty Search:** Utilize both its internal knowledge base and the vastness of the internet (powered by DuckDuckGo) for in-depth information retrieval.
-- ** Contextual Chat:** AutoRAG remembers past conversations, ensuring consistent and relevant responses tailored to your specific needs.
+- **Knowledge Powerhouse:** AutoRAG maintains a comprehensive knowledge base, keeping you informed on various topics.
+- **Double-Duty Search:** Utilize both its internal knowledge base and the vastness of the internet (powered by DuckDuckGo) for in-depth information retrieval.
+- **Contextual Chat:** AutoRAG remembers past conversations, ensuring consistent and relevant responses tailored to your specific needs.
 - **✨ Markdown Mastery:** Craft beautiful and informative responses using Markdown formatting.
-- ** Debug Mode:** Gain valuable insights into tool call logs to optimize performance and troubleshoot any issues (optional).
+- **Debug Mode:** Gain valuable insights into tool call logs to optimize performance and troubleshoot any issues (optional).
 
 **Getting Started**
 
